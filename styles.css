@@ -133,7 +133,7 @@ img {
 }
 
 .img4 {
-  height: 24rem;
+  flex-basis: 24rem;
   margin: 0 auto;
 }
 
@@ -301,7 +301,7 @@ img {
   }
 
   .img4 {
-    height: 24rem;
+    flex-basis: 24rem;
     margin: 0 auto;
   }
 
